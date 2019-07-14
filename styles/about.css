@@ -1,0 +1,29 @@
+.top{
+	padding: 31px;
+}
+
+.carousel-caption {
+	top: 100px;
+	text-shadow: 0px 2px 4px black;
+}
+
+.carousel-caption p{
+	font-size: 1.0em;
+}
+
+.dim {
+  -webkit-filter: brightness(75%);
+}
+
+.bigtop{
+	padding: 120px;
+}
+
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+
+.bottom{
+	padding: 1px;
+}

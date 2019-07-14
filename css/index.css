@@ -1,0 +1,10 @@
+/*Index page*/
+
+.carousel-caption {
+	top: 200px;
+	text-shadow: 0px 2px 4px black;
+}
+
+.carousel-caption p{
+	font-size: 1.5em;
+}

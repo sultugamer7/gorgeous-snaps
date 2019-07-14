@@ -1,0 +1,25 @@
+.top{
+	padding: 43px;
+}
+
+.bodycolor{
+	background-color: rgba(0, 0, 0, 0.03);
+}
+
+.jumbotron{
+    background-color: white !important;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 2px !important;
+}
+
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+
+.imagefit {
+	height: 280px;
+	width: 320px;
+	object-fit: cover;
+}

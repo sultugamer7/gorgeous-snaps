@@ -1,0 +1,16 @@
+.top{
+  padding: 31px;
+}
+
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+
+.bgcolor{
+  background-color: rgba(0, 0, 0, 0.03);
+}
+
+.bottom{
+  padding: 1px;
+}
